@@ -6,4 +6,3 @@ authors = ["Jonah"]
 
 [dependencies]
 opencv = "0.67.0"
-num = "0.4.0"
